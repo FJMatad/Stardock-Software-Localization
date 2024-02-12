@@ -472,9 +472,9 @@ Exist=1
 "Taskbar settings"="Ajustes de barra de tareas"
 "Lock all taskbars"="Bloquear todas las barras de tareas"
 "Show the desktop"="Mostrar escritorio"
-"Show windows side by side"="Mostrar Windows de lado a lado"
-"Cascade windows"="Windows en cascada"
-"Show windows stacked"="Mostrar Windows apilado"
+"Show windows side by side"="Mostrar ventanas de lado a lado"
+"Cascade windows"="Mostrar ventanas en cascada"
+"Show windows stacked"="Mostrar ventanas apiladas"
 
 ;Start11v2
 "Display as a link"="Mostrar como un enlace"
@@ -888,3 +888,8 @@ Exist=1
 "Ok"="Ok"
 "Website links"="Enlaces de sitios web"
 "Web links pinned to the start menu should obtain the favicon image (** Will make connections to a Google website )"="Los enlaces web anclados al menú de inicio deben obtener la imagen favicon ( Se realizarán conexiones a un sitio web de Google **)"
+"Task Manager"="Administrador de tareas"
+"Autohide taskbar"="Ocultar automáticamente la barra de tareas"
+"Uninstall"="Desinstalar"
+"Remove from this list"="Quitar de esta lista"
+"Pin to Start menu"="Anclar en el menú de Inicio"
